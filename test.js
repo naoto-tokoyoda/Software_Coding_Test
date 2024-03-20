@@ -1,4 +1,6 @@
 function StrToNum(s) {
+
+    //Avoid invalid input
     if(typeof s != "string"){
         console.log("Input should be string");
         throw new Error();
