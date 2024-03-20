@@ -1,3 +1,24 @@
+| Symbol | Value |
+|--------|-------|
+| A      | 1     |
+| B      | 5     |
+| Z      | 10    |
+| L      | 50    |
+| C      | 100   |
+| D      | 500   |
+| R      | 1000  |
+
+
+| Combination | Represents |
+|-------------|------------|
+| AB          | 4          |
+| AZ          | 9          |
+| ZL          | 40         |
+| ZC          | 90         |
+| CD          | 400        |
+| CR          | 900        |
+
+
 For example, 2 is written as AA in Alien numeral, just two ones added together. 
 
 12 is written as ZAA, which is simply Z +
